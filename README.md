@@ -1,1 +1,1 @@
-# first-timers-guide_website
+# first-timers-guide-website
